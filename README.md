@@ -2,3 +2,4 @@
 testing setup
 Change 1: setting up my repository
 Change 2: added course folders
+Change 3: learning the basic git workflow of add, commit, and push
