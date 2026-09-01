@@ -8,3 +8,4 @@ Change 5: getting more comfortable with the command line
 Change 6: reviewing how GitHub authentication works with personal access tokens
 Change 7: this repository will hold my work for the data course
 Change 8: continuing to practice version control
+Change 9: almost done with the required README updates
