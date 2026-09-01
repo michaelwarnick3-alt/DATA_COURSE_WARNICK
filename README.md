@@ -9,3 +9,4 @@ Change 6: reviewing how GitHub authentication works with personal access tokens
 Change 7: this repository will hold my work for the data course
 Change 8: continuing to practice version control
 Change 9: almost done with the required README updates
+Change 10: completed the required 10 README updates for Assignment 1
